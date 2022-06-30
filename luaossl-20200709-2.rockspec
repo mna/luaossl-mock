@@ -2,7 +2,7 @@ rockspec_format = "3.0"
 package = "luaossl"
 version = "20200709-2"
 source = {
-   url = "https://github.com/mna/luaossl-mock.git",
+   url = "git+https://github.com/mna/luaossl-mock",
 	 tag = "main",
 }
 description = {
